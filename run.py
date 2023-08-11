@@ -1,4 +1,6 @@
 from flaskblog import create_app
+from flaskblog import edit_app
+
 
 app = create_app()
 
